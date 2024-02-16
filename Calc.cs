@@ -18,5 +18,9 @@
         {
             Console.WriteLine("Result after multiplication:\t" + (n1 * n2));
         }
+        public void Avg(double n1, double n2)
+        {
+            Console.WriteLine($"Average of {n1} and {n2} =\t" + (n1 + n2)/2);
+        }
     }
 }
