@@ -7,3 +7,7 @@ Console.WriteLine("Add call");
 calc.Add(12, 45);
 Console.WriteLine("Multi call");
 calc.Multi(10.5, 12.45);
+Console.WriteLine("Div call");
+calc.Div(20, 4);
+Console.WriteLine("Sub call");
+calc.Sub(20, 4);
