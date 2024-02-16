@@ -1,0 +1,15 @@
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.exe
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.deps.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.runtimeconfig.json
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.pdb
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfoInputs.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfo.cs
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.csproj.CoreCompileInputs.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+D:\E Drive\asmi\A-Mphasis\Training\Simplilearn\Phase 4\Trainer\Day-4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json
